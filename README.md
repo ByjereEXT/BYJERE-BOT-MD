@@ -1,7 +1,7 @@
-# `𝑭𝒂𝒏𝒕𝒂𝒔𝒎𝒂𝑩𝒐𝒕 - 𝑴𝒅 `
+# `𝘽𝙮𝙟𝙚𝙧𝙚𝙀𝙓𝙏𝑩𝒐𝒕 - 𝑴𝒅 `
 
 ### `—◉ 👑 DUDAS SOBRE EL BOT?, CONTACTAME 👑`
-<a href="http://wa.me/19894000000" target="blank"><img src="https://img.shields.io/badge/Fantasma-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="http://wa.me/18299641387" target="blank"><img src="https://img.shields.io/badge/-25D366?ByjereExtstyle=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 > NO BOT
 
 ### `—◉ 🖍 LETRA DEL BOT 🖍`
@@ -35,8 +35,8 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > pkg install yarn
-> git clone https://github.com/notxfantasma666/FantasmaBot-MD
-> cd FantasmaBot-MD
+> git clone https://github.com/ByjereEXT/BYJERE-BOT-MD-main
+> cd BYJERE-BOT-MD
 > yarn install 
 > npm install
 > npm update
@@ -47,7 +47,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd FantasmaBot-MD
+> cd BYJERE-BOT-MD
 > npm start
 ```
 
@@ -55,7 +55,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd FantasmaBot-MD
+> cd BYJERE-BOT-MD
 > rm -rf session.data.json
 > npm start
 ```
@@ -88,10 +88,4 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```
 
 ## `EDITOR Y PROPIETARIO DEL BOT` 
-`𝑭𝒂𝒏𝒕𝒂𝒔𝒎𝒂𝑩𝒐𝒕 __________ By Fantasma?`
-
-
-# FantasmaBot-MD
-# FantasmaBot-MD
-# FantasmaBot-MD
-# Fantasma-Bot-Multidevice
+`𝘽𝙮𝙟𝙚𝙧𝙚𝙀𝙓𝙏𝑩𝒐𝒕 - 𝑴𝒅 __________ By jereEXT?
